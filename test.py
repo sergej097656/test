@@ -9,12 +9,6 @@ system("pip3 install socket")
 
 system("pip3 install bs4")
 
-system("pip3 install threading")
-
-system("pip3 install urllib.request")
-
-system("pip3 install json")
-
 file.write('''import requests
 import socket
 import bs4
